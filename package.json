@@ -1,0 +1,25 @@
+{
+  "name": "hackathon",
+  "productName": "InstantHSL",
+  "version": "1.0.0",
+  "description": "My first electron app, made in > 24 hours for a hackathon ",
+  "main": "index.js",
+  "homepage": "./",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"electron .\" \"cd front && npm start\"",
+    "build": "cd front && npm run build && cd .. && electron-packager . hackathon --all --asar",
+    "package": "electron-packager . desktop-app --all --asar"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.4",
+    "electron-packager": "^15.2.0"
+  },
+  "dependencies": {
+    "concurrently": "^6.0.2",
+    "electron-is-dev": "^2.0.0"
+  }
+}

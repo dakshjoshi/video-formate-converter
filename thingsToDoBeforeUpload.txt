@@ -1,0 +1,4 @@
+1. Only MP4 files can be uploded from input -- DONE 
+2. Style everything -- DONE
+3. Add functionality to clean HLS and Uploaded file before usage -- DONE
+4. Wrap everythin in electron.js app --DONE 
