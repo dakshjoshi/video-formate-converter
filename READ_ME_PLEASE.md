@@ -5,6 +5,9 @@ Thank you for visiting my page :)
 
 [[[[[ TO PREVIEW THE APLICATION, PLEASE GO TO THE "PROOF" DIRECTORY OF THIS REPOSITORY ]]]]
 
+NOTE : If while running the application, if the application sometime doesn't work, just go the view tab and click on reload.
+If still not working, feel free to contact me personally.
+
 There are a few easy steps you will need to follow to start using this application. This whole process is a 4 step mechanism.
 
 Step 1 : Clone this repoisitory to your device.
