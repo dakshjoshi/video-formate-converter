@@ -3,6 +3,8 @@ This is a video format converter. It converts mp4 videos into HSL format for HTT
 
 Thank you for visiting my page :)
 
+[[[[[ TO PREVIEW THE APLICATION, PLEASE GO TO THE "PROOF" DIRECTORY OF THIS REPOSITORY ]]]]
+
 There are a few easy steps you will need to follow to start using this application. This whole process is a 4 step mechanism.
 
 Step 1 : Clone this repoisitory to your device.
@@ -29,7 +31,11 @@ And the difficult part is over. Now you only have one code remaining to start th
 
 Step 4 and the last code : npm run dev.
 
-CONGRATULATIONS ON REACHING OVER HERE ! I really hope you like my application
+CONGRATULATIONS ON REACHING OVER HERE ! I really hope you like my application. 
+
+Thank you again 
+Cheers
+Daksh Joshi
 
 This will open the local host enivronment required to run the ffmpeg and the electron js which is based on react app.
 
